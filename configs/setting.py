@@ -1,1 +1,1 @@
-VERSION = "v1.2.3 - Apr 23, 2025"
+VERSION = "v1.2.3 - May 8, 2025"
